@@ -1,1 +1,1 @@
-# Currency-Analysis-and-Forecasting
+# CurrencyForecasting
